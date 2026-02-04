@@ -1,3 +1,3 @@
 # About Me
 
-I am a Computer Engineering student at Universidad Técnica Federico Santa María. My primary interest lies in frontend development, and I have a genuine desire to learn more about data science, especially in the scientific domain.
+Computer Engineer and MSc student in Computer Science Engineering at Universidad Técnica Federico Santa María. Passionate about Data Science and Artificial Intelligence, applying machine learning techniques to real-world problems. Experienced in web development, particularly frontend technologies, and in building analytical and data-driven applications.
